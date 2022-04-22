@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+
+.btns{
+    margin: 10px 0px 45px 20px;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 7px;
+}
+
+.card-bg {
+    border-radius: 15px;
+    background-color: #8f9143;
+    color: white;
+}
+
+.card-bg img{
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.dflex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dflex .hhh{
+    margin-top: 16px;
+}
